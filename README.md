@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Biaya10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm @Biaya10
 
-<!---
-Biaya10/Biaya10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌿 “Biayá” means weaver in the Kamëntsá language.
+
+💻 Systems Engineering student
+📊 Interested in software development, databases, data science, and applied technology
+
+🌱 Currently learning and improving skills in:
+
+Python
+Java
+SQL & Databases
+Data Analysis
+Software Development
+
+🚀 Building projects and exploring technology-driven solutions with real impact
